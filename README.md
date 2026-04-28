@@ -8,6 +8,7 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 - [Install Windows Server 2022 via VM](https://github.com/tavyn-jackson/WindowsServer/blob/main/README.md)
+- [Promote Server / Add AD DS](https://github.com/tavyn-jackson/Active-Directory/blob/main/README.md)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
