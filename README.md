@@ -5,8 +5,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Install Windows Server 2022 via VM](https://github.com/tavyn-jackson/WindowsServer/blob/main/README.md)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
