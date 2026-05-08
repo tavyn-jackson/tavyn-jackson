@@ -10,6 +10,11 @@
 - [Install Windows Server 2022 via VM](https://github.com/tavyn-jackson/WindowsServer/blob/main/README.md)
 - [Promote Server / Add AD DS](https://github.com/tavyn-jackson/Active-Directory/blob/main/README.md)
 
+<h2>👨‍💻 Testing Projects:</h2>
+
+- [Test Case: Login](https://github.com/tavyn-jackson/WindowsServer/blob/main/README.md)
+- [Test Case: TBA]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
