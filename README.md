@@ -8,7 +8,7 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 
-- [Active Directory Labs](https://github.com/tavyn-jackson/Active-Directory/tree/main)
+- [Active Directory Labs](https://github.com/tavyn-jackson/Active-Directory/blob/main/README.md)
 
 <h2>👨‍💻 Testing Projects:</h2>
 
