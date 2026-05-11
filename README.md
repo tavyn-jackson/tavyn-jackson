@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Testing Projects:</h2>
 
-- [Test Case: Login](https://github.com/tavyn-jackson/WindowsServer/blob/main/README.md)
+- [Test Case: Login](https://github.com/tavyn-jackson/Login-Test-Suite-/blob/main/Functional-Testing/README.md)
 - [Test Case: TBA]()
 
 <h2> 🤳 Connect with me:</h2>
