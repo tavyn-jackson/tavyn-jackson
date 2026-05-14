@@ -18,6 +18,7 @@
 <h2>👨‍💻 Automation & Scripting Projects:</h2>
 
 - [Log Analysis](https://github.com/tavyn-jackson/Script-Labs/blob/main/Log-Analysis/README.md)
+- [Ping Server](https://github.com/tavyn-jackson/Script-Labs/blob/main/Ping-Server/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
